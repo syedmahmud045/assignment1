@@ -13,8 +13,10 @@ span {
   color: #36a38f;
 }
 .mini-box {
-  border-left: 2px solid #36a38f;
+  border-left: 5px solid #14bafc;
   padding-left: 2%;
+  margin: 0;
+  padding-top: 0;
 }
 .button {
   text-decoration: none;
@@ -92,6 +94,7 @@ span {
 .Price {
   width: 30%;
   text-align: center;
+  padding-bottom: 5%;
 }
 .price-table {
   padding-left: 6%;
